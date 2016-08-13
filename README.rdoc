@@ -1,3 +1,3 @@
-Test Rails Blog App
+Test Rails Blog App Ebon J
 
 Upload to github.
